@@ -1,0 +1,204 @@
+import time
+import random
+import colorama
+from colorama import Fore
+from colorama import init
+
+init(autoreset=False)
+print(Fore.BLUE + 'made by germany#7650')
+
+print("Welcome to XCV7 ip scanner")
+time.sleep(2)
+print(" ")
+time.sleep(2.1)
+print("Type in your username and password")
+time.sleep(0.9)
+Username = input("Username:")
+Password = input("Password:")
+print("Thank You")
+time.sleep(1)
+print("Logging in as User 02144}")
+time.sleep(0.9)
+print("Logging in")
+time.sleep(0.9)
+print("Logging in")
+time.sleep(0.9)
+print("Logged In!")
+print("Type in the persons ip to scan")
+time.sleep(1)
+ip = input("ip:")
+print("Resloving ip")
+time.sleep(1)
+print("...")
+time.sleep(1)
+print("...")
+time.sleep(1)
+print("...")
+time.sleep(1)
+print("Resloved!")
+time.sleep(0.4)
+
+
+def question():
+    i = 0
+    while i < 2:
+        answer = input("Would you like to see the details?  (yes or no)")
+        if any(answer.lower() == f for f in ["yes", 'y', '1', 'ye']):
+            print("14 Fleming Avenue, Amherst, NS B4H 3W5, Canada")
+            break
+        elif any(answer.lower() == f for f in ['no', 'n', '0']):
+            print("Ok")
+            break
+        else:
+            i += 1
+            if i < 2:
+                print('Please enter yes or no')
+            else:
+                print("Nothing done")
+                time.sleep (2)
+
+
+question()
+
+
+def question():
+    i = 0
+    while i < 2:
+        answer = input(
+            "Do you want to give the ip a breakdown? (yes or no) type here:")
+        if any(answer.lower() == f for f in ["yes", 'y', '1', 'ye']):
+            print("Loading")
+            time.sleep(1)
+            print("Loading")
+            time.sleep(1)
+            print("Loading")
+            time.sleep(1)
+        if any(answer.lower() == f for f in ["yes", 'y', '1', 'ye']):
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+            time.sleep(0.1)
+            print("GIVING BREAKDOWN LOLOLOL")
+
+            break
+        elif any(answer.lower() == f for f in ['no', 'n', '0']):
+            print("Ok")
+            break
+        else:
+            i += 1
+            if i < 2:
+                print('Please enter yes or no')
+            else:
+                print("Nothing done")
+
+
+question()
+time.sleep (2)
+print("breakdown is done!")
+
+
+def question():
+    i = 0
+    while i < 2:
+        answer = input(
+            "Would you like to change the data of the ip?  (yes or no) type here:"
+        )
+        if any(answer.lower() == f for f in ["yes", 'y', '1', 'ye']):
+            key = input("ping:")
+            key = input("packets to main ip sever:")
+            key = input("How long should this last for?")
+            break
+        elif any(answer.lower() == f for f in ['no', 'n', '0']):
+            print("Ok")
+            break
+        else:
+            i += 1
+            if i < 2:
+                print('Please enter yes or no')
+            else:
+                print("Nothing done")
+
+
+print("saving data")
+time.sleep (1)
+print("Saving")
+time.sleep (2.5)
+print("Saving")
+time.sleep(2.40535)
+print("Saving")
+time.sleep (2.6)
+print("Saved!")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+print("Thank You For Using XCV7 ip scanner!")
+print("Made by 1 person :) hoped you liked it")
